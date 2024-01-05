@@ -1,36 +1,36 @@
 {
-"BIG_BANNER": "http://localhost:3000/posters/0BigImagePoster/bigPoster.png",
+"BIG_BANNER": "https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/0BigImagePoster/bigPoster.png",
 "DRAMAS": [
 {
 "CATEGORY_TITLE": "지금 뜨는 콘텐츠",
 "POSTERS": [
-"http://localhost:3000/posters/1EnglishMoviePoster/poster1.png",
-"http://localhost:3000/posters/1EnglishMoviePoster/poster2.png",
-"http://localhost:3000/posters/1EnglishMoviePoster/poster3.png",
-"http://localhost:3000/posters/1EnglishMoviePoster/poster4.png",
-"http://localhost:3000/posters/1EnglishMoviePoster/poster5.png",
-"http://localhost:3000/posters/1EnglishMoviePoster/poster6.png",
-"http://localhost:3000/posters/1EnglishMoviePoster/poster7.png"
+"https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/1EnglishMoviePoster/poster1.png",
+"https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/1EnglishMoviePoster/poster2.png",
+"https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/1EnglishMoviePoster/poster3.png",
+"https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/1EnglishMoviePoster/poster4.png",
+"https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/1EnglishMoviePoster/poster5.png",
+"https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/1EnglishMoviePoster/poster6.png",
+"https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/1EnglishMoviePoster/poster7.png"
 ]
 },
 {
 "CATEGORY_TITLE": "감동적인 한국 드라마",
 "POSTERS": [
-"http://localhost:3000/posters/2KoreanMoviePoster/poster1.png",
-"http://localhost:3000/posters/2KoreanMoviePoster/poster2.png",
-"http://localhost:3000/posters/2KoreanMoviePoster/poster3.png",
-"http://localhost:3000/posters/2KoreanMoviePoster/poster4.png",
-"http://localhost:3000/posters/2KoreanMoviePoster/poster5.png"
+"https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/2KoreanMoviePoster/poster1.png",
+"https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/2KoreanMoviePoster/poster2.png",
+"https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/2KoreanMoviePoster/poster3.png",
+"https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/2KoreanMoviePoster/poster4.png",
+"https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/2KoreanMoviePoster/poster5.png"
 ]
 },
 {
 "CATEGORY_TITLE": "두고두고 보는 동양 영화",
 "POSTERS": [
-"http://localhost:3000/posters/3JapaneseMoviePoster/poster1.png",
-"http://localhost:3000/posters/3JapaneseMoviePoster/poster2.png",
-"http://localhost:3000/posters/3JapaneseMoviePoster/poster3.png",
-"http://localhost:3000/posters/3JapaneseMoviePoster/poster4.png",
-"http://localhost:3000/posters/3JapaneseMoviePoster/poster5.png"
+"https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/3JapaneseMoviePoster/poster1.png",
+"https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/3JapaneseMoviePoster/poster2.png",
+"https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/3JapaneseMoviePoster/poster3.png",
+"https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/3JapaneseMoviePoster/poster4.png",
+"https://raw.githubusercontent.com/agmma/posterImagerServer/main/posters/3JapaneseMoviePoster/poster5.png"
 ]
 }
 ]
